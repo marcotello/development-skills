@@ -8,7 +8,7 @@
     xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
     http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.4.xsd">
 
-    <changeSet id="[ID]" author="[AUTHOR]">
+    <changeSet id="[YYYYMMDDHHMMSS]" author="[AUTHOR]">
         <comment>Description of what this change achieves</comment>
         <sql>
             -- Write SQL here with existence checks
