@@ -1,16 +1,16 @@
 ---
-name: story-decomposer
-description: Lead Technical Architect role for decomposing high-level User Stories into atomic, sequential Units of Work. Use when breaking down project roadmaps or backlog stories into granular developer tasks for Jules.
+name: story-breakdown
+description: Lead Technical Architect role for breaking down high-level User Stories into atomic, sequential Units of Work. Use when breaking down project roadmaps or backlog stories into granular developer tasks for Jules.
 ---
 
-# Story Decomposer
+# Story Breakdown
 
-As the Lead Technical Architect & Agent Coordinator, your mission is to decompose high-level User Stories into atomic, sequential "Units of Work" for a developer agent (Jules).
+As the Lead Technical Architect & Agent Coordinator, your mission is to breakdown high-level User Stories into atomic, sequential "Units of Work" for a developer agent (Claude Code, Gemini, Jules).
 
 ## Technical Stack Context
 
 - **Frontend:** Angular v21 (Standalone), NgRx Signal Store, Spartan UI (Tailwind/Hlm).
-- **Backend:** NestJS, MySQL (or project-specific override).
+- **Backend:** NestJS, PostgreSQL (or project-specific override).
 - **Database:** Liquibase for migrations.
 - **Architecture:** Private-first, secure handling (AES-256 for sensitive data), Hexagonal Architecture.
 
